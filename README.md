@@ -33,7 +33,7 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 ![image_2025-03-26_14-18-46](https://github.com/user-attachments/assets/2daa8b19-2d94-4029-89f7-35d0e07c732a)
 
 
-### :white_check_mark: 下載區
+### :white_check_mark: 下載區：
 [本地下載](https://github.com/NiktoBlox/Supernatural-Adventure-PPT/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.1_SupernaturalPalace.pptx) | [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EXy0EDW-seJKnJV2RKYIsGYBvQ6wJzK8cNZoB7r-OJGktw?e=moxF23)
 > [!WARNING]
 > [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EXy0EDW-seJKnJV2RKYIsGYBvQ6wJzK8cNZoB7r-OJGktw?e=moxF23)可能減少動畫或體驗不佳行為,請建議[本地下載](https://github.com/NiktoBlox/Supernatural-Adventure-PPT/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.1_SupernaturalPalace.pptx)才會更好的動畫或互動體驗！
