@@ -4,7 +4,7 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 ### 遊戲資料：
 ```
 遊戲名稱:超自然之殿
-檔案名:第一集-超自然之殿(無聲版).pptx
+檔案名:Episode.1_SupernaturalPalace.pptx
 製作者:NiktoBlox
 製作軟體:PowerPoint
 檔案大小:40.6MB
@@ -19,3 +19,9 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 
 ![4](https://github.com/user-attachments/assets/894ebccf-6db3-485c-b753-14c6311a7e4f)
 
+### 特別注意事項：
+> [!WARNING]
+> 請務必使用Microsoft PowerPoint
+
+> [!NOTE]
+> 此PPT沒有聲音,後續再補,敬請期待！
