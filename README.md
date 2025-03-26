@@ -28,6 +28,8 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 
 ### :thinking:  如何玩：
 打開之後第一張投影片,以全螢幕或是閱讀模式即可開始玩
+
+
 ![image_2025-03-26_14-07-22](https://github.com/user-attachments/assets/6ddcc7d2-692a-4db7-a5ee-58ce9bdb9cf5)
 
 ### :white_check_mark: 下載區
