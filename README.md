@@ -1,6 +1,6 @@
 # 超自然探險系列 PPT版
 NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐怖、超自然及有趣的密室逃脫
-## 《第一集-超自然之殿》 | [探險百科](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/wiki/Home-‐-歡迎您使用《第一集‐超自然之殿》Wiki)
+## 《第一集-超自然之殿》 | [探險百科](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/wiki)
 續集：[《第二集-廢棄的醫院》](https://github.com/NiktoBlox/Episode-2-Abandoned-Hospital/tree/main) 
 ### :information_source:	 遊戲資料：
 ```
