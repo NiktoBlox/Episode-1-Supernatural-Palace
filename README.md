@@ -29,7 +29,7 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 > 此PPT沒有聲音,後續再補,敬請期待！
 
 ### :thinking:  如何玩：
-打開之後第一張投影片,如下圖,以全螢幕或是閱讀模式即可開始玩
+打開PowerPoint之後第一張投影片,如下圖,以全螢幕或是閱讀模式即可開始玩
 
 ![image_2025-03-26_14-18-46](https://github.com/user-attachments/assets/2daa8b19-2d94-4029-89f7-35d0e07c732a)
 
