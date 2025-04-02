@@ -6,8 +6,8 @@ assignees: []
 body:
   - type: markdown
     attributes:
-      value: "### 樓上輸入您要的Bug主題或故障 "
-      
+      value: "### 樓上輸入您要的Bug主題或故障,範例 [Bug]: 動畫被隨機移動 "
+      ***
   - type: dropdown
     id: location
     attributes:
