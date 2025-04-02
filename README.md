@@ -40,4 +40,4 @@ NiktoBlox完全製作,而且100%原創+原生PPT,可以畫面互動,並探險恐
 > [在線遊玩](https://1drv.ms/p/c/87252f879fec2d81/EXy0EDW-seJKnJV2RKYIsGYBvQ6wJzK8cNZoB7r-OJGktw?e=moxF23)可能減少動畫或體驗不佳行為,請建議[本地下載](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/releases/download/%E7%99%BC%E8%A1%8C%E7%89%88/Episode.1_SupernaturalPalace.pptx)才會更好的動畫或互動體驗！
 
 ***
-歡迎討論：[:lady_beetle:Bug問題](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/discussions/categories/bug-%E5%95%8F%E9%A1%8C) | [:electron:未來計劃](https://github.com/NiktoBlox/Episode-1-Supernatural-Palace/discussions/categories/%E6%9C%AA%E4%BE%86%E8%A8%88%E5%8A%83)
+歡迎表單回報：[:lady_beetle:Bug問題](https://github.com/NiktoBlox/Supernatural-Exploration-Series/issues) | [:electron:未來計劃](https://github.com/NiktoBlox/Supernatural-Exploration-Series/issues)
