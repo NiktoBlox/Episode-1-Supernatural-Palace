@@ -4,6 +4,10 @@ title: "[Bug]: "
 labels: ["bug"]
 assignees: []
 body:
+  - type: markdown
+    attributes:
+      value: "## Add a title 添加子說明：請輸入Bug主題或標題"
+      
   - type: dropdown
     id: location
     attributes:
@@ -23,14 +27,6 @@ body:
       placeholder: 例如：v1.2.3
     validations:
       required: false
-      
-  - type: input
-    id: bug-title
-    attributes:
-      label: Bug標題
-      placeholder: 簡短描述問題
-    validations:
-      required: true
       
   - type: textarea
     id: description
