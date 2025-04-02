@@ -24,15 +24,15 @@ body:
     id: version
     attributes:
       label: 遊戲版本(可略)
-      placeholder: 例如：v1.2.3
+      placeholder: 例如：v1.2
     validations:
       required: false
       
   - type: textarea
     id: description
     attributes:
-      label: 詳細說明
-      placeholder: 請描述您遇到的問題，包括重現步驟、期望行為和實際行為
+      label: 詳細說明(也可以在此放圖片)
+      placeholder: 請描述您遇到的Bug問題，包括動畫故障、轉場故障、互動...等
     validations:
       required: true
       
