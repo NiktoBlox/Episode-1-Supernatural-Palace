@@ -6,7 +6,7 @@ assignees: []
 body:
   - type: markdown
     attributes:
-      value: "## Add a title 添加子說明：請輸入Bug主題或標題"
+      value: "### 樓上輸入您要的Bug主題或故障 "
       
   - type: dropdown
     id: location
